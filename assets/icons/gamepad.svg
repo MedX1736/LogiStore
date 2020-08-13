@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="538" height="346" viewBox="0 0 538 346">
+  <g id="Group_8" data-name="Group 8" transform="translate(617 -653)">
+    <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(-190 800)" fill="#fff" stroke="#3a3a3a" stroke-width="32">
+      <rect width="34" height="34" stroke="none"/>
+      <rect x="16" y="16" width="2" height="2" fill="none"/>
+    </g>
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(-617 653)" fill="none" stroke="#3a3a3a" stroke-width="32">
+      <rect width="538" height="346" rx="173" stroke="none"/>
+      <rect x="16" y="16" width="506" height="314" rx="157" fill="none"/>
+    </g>
+    <line id="Line_25" data-name="Line 25" y2="122" transform="translate(-430.5 755.5)" fill="none" stroke="#3a3a3a" stroke-width="32"/>
+    <line id="Line_26" data-name="Line 26" y2="122" transform="translate(-369.5 816.5) rotate(90)" fill="none" stroke="#3a3a3a" stroke-width="32"/>
+    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(-242 756)" fill="none" stroke="#3a3a3a" stroke-width="32">
+      <rect width="34" height="34" stroke="none"/>
+      <rect x="16" y="16" width="2" height="2" fill="none"/>
+    </g>
+    <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(-242 844)" fill="none" stroke="#3a3a3a" stroke-width="32">
+      <rect width="34" height="34" stroke="none"/>
+      <rect x="16" y="16" width="2" height="2" fill="none"/>
+    </g>
+    <g id="Rectangle_49" data-name="Rectangle 49" transform="translate(-292 800)" fill="none" stroke="#3a3a3a" stroke-width="32">
+      <rect width="34" height="34" stroke="none"/>
+      <rect x="16" y="16" width="2" height="2" fill="none"/>
+    </g>
+  </g>
+</svg>

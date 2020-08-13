@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="527" height="346" viewBox="0 0 527 346">
+  <g id="keybiard" transform="translate(-567 -653)">
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(567 653)" fill="none" stroke="#3a3a3a" stroke-width="32">
+      <rect width="527" height="346" rx="60" stroke="none"/>
+      <rect x="16" y="16" width="495" height="314" rx="44" fill="none"/>
+    </g>
+    <line id="Line_24" data-name="Line 24" x2="209" transform="translate(726.5 914.5)" fill="none" stroke="#3a3a3a" stroke-width="32"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="32" height="34" transform="translate(675 722)" fill="#3a3a3a"/>
+    <rect id="Rectangle_34" data-name="Rectangle 34" width="32" height="34" transform="translate(745 722)" fill="#3a3a3a"/>
+    <rect id="Rectangle_35" data-name="Rectangle 35" width="32" height="34" transform="translate(885 722)" fill="#3a3a3a"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" width="32" height="34" transform="translate(815 722)" fill="#3a3a3a"/>
+    <rect id="Rectangle_33" data-name="Rectangle 33" width="32" height="34" transform="translate(955 722)" fill="#3a3a3a"/>
+    <rect id="Rectangle_36" data-name="Rectangle 36" width="32" height="34" transform="translate(783 792)" fill="#3a3a3a"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="32" height="34" transform="translate(631 792)" fill="#3a3a3a"/>
+    <rect id="Rectangle_40" data-name="Rectangle 40" width="32" height="34" transform="translate(707 792)" fill="#3a3a3a"/>
+    <rect id="Rectangle_38" data-name="Rectangle 38" width="32" height="34" transform="translate(853 792)" fill="#3a3a3a"/>
+    <rect id="Rectangle_37" data-name="Rectangle 37" width="32" height="34" transform="translate(999 792)" fill="#3a3a3a"/>
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="32" height="34" transform="translate(923 792)" fill="#3a3a3a"/>
+  </g>
+</svg>
